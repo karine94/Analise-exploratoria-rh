@@ -2,7 +2,7 @@
 
 Considerando uma empresa fictícia `Marajó LTDA`, foi realizada uma análise para verificar a performance do setor de RH da mesma. 
 Tecnologia utilizada: Power Bi.
-Obs.: Este projeto faz parte do curso **Microsoft Power BI para Business Intelligence e Data Science** da DSA Academy, o qual você pode ter acesso atráves deste [link](https://www.datascienceacademy.com.br/todoscursosdsa).
+Obs.: Este projeto faz parte do curso *Microsoft Power BI para Business Intelligence e Data Science* da DSA Academy, o qual você pode ter acesso atráves deste [link](https://www.datascienceacademy.com.br/todoscursosdsa).
 
 # Arquivos
 
