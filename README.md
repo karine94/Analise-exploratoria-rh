@@ -9,7 +9,7 @@ Obs.: Este projeto faz parte do curso *Microsoft Power BI para Business Intellig
 - `projeto_rh.` é o arquivo na extensão do Power Bi
 - `projeto_rh_pdf` visualização do dashboard
 
-# O que voê encontra neste projeto:
+# O que você encontra neste projeto:
 - Total de funcionários da empresa
 - Média salarial dos funcionários
 - Tempo médio de experiência dos funcionários
