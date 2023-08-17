@@ -1,6 +1,6 @@
-# Análise da performance do setor de RH da Marajó LDTA (Empresa fictícia)
+# Análise de dados do RH
 
-Considerando uma empresa fictícia `Marajó LTDA`, foi realizada uma análise para verificar a performance do setor de RH da mesma. 
+Foi realizada uma análise para verificar a performance dos colaboradores de uma empresa fictícia, com base em dados do RH. 
 Tecnologia utilizada: Power Bi.
 Obs.: Este projeto faz parte do curso *Microsoft Power BI para Business Intelligence e Data Science* da DSA Academy, o qual você pode ter acesso atráves deste [link](https://www.datascienceacademy.com.br/todoscursosdsa).
 
