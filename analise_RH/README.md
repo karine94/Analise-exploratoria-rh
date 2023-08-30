@@ -6,7 +6,7 @@ Obs.: Este projeto faz parte do curso *Microsoft Power BI para Business Intellig
 
 # Arquivos
 
-- `projeto_rh.` é o arquivo na extensão do Power Bi
+- `analiseRH` é o arquivo na extensão do Power Bi
 - `projeto_rh_pdf` visualização do dashboard
 
 # O que você encontra neste projeto:
